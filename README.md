@@ -1,6 +1,6 @@
 # Backsight – Support
 
-Backsight (Setup Backtester) is a Windows app for backtesting chart setups: you draw Entry, Stop Loss and Take Profit on the chart,
+Backsight (Strategy Backtester) is a Windows app for backtesting chart setups: you draw Entry, Stop Loss and Take Profit on the chart,
 and Backsight looks for similar situations in the market's past and shows how the trade would have played out there.
 
 **Contact:** cuestadev@proton.me – we usually answer within a few days.
