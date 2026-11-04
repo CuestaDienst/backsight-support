@@ -1,8 +1,8 @@
 # Privacy Policy – Backsight
 
-*Effective date: October 21, 2026*
+*Effective date: 21 Oct 2026*
 
-Backsight (Setup Backtester) is a desktop application for analysing historical
+Backsight Strategy Backtester is a desktop application for analyzing historical
 market data. This policy explains what data the app handles.
 
 ## Data we collect
@@ -53,7 +53,7 @@ report service, which runs on Cloudflare (Cloudflare Workers):
 - your email address, only if you enter one (to answer you),
 - technical information, shown to you before sending and optional (one
   checkbox): app version, Windows version, the selected market and
-  timeframe, whether the chart was live or in replay, your last analysed
+  timeframe, whether the chart was live or in replay, your last analyzed
   strategy as data (its drawings, levels, prices, management rule and
   analysis settings) with its result numbers, and the last error
   messages shown in the app (file paths removed). This contains no
