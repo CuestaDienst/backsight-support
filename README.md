@@ -1,7 +1,27 @@
 # Backsight – Support
 
+<p><a href="https://apps.microsoft.com/detail/9P6P7J256RCB" style="display:inline-block;padding:0.7em 1.4em;background:#0067b8;color:#ffffff;font-weight:600;border-radius:6px;text-decoration:none;">Get it from the Microsoft Store</a></p>
+
+Windows 10/11 · one-time purchase · no account needed
+
 Backsight Strategy Backtester is a Windows app for backtesting chart setups: you draw Entry, Stop Loss and Take Profit on the chart,
 and Backsight looks for similar situations in the market's past and shows how the trade would have played out there.
+
+## How it works
+
+**1. Draw your setup.** Draw a trade setup on the chart with a Position, horizontal lines, Fibonacci, a trendline, an EMA or an anchored
+VWAP, and give each drawing its role: Entry, Stop Loss or Take Profit.
+
+**2. Similar past situations.** Backsight looks for past moments where the chart structure around the price looked like it does now,
+and places your setup there in the same way, relative to that structure.
+
+**3. Each situation as a trade.** Every situation found is simulated as a trade: whether the order is filled, and whether the stop or
+the target is reached first. Where the candles cannot show which came first, 1-minute data settles it.
+
+**4. The result.** The result card shows the win rate with a confidence range, the expected result per trade in R, and how many orders
+were never filled. Details explains every number.
+
+Results exclude fees, slippage and funding, and they are not financial advice.
 
 **Contact:** cuestadev@proton.me – we usually answer within a few days.
 
